@@ -74,7 +74,7 @@ let P = sideA + sideB + sideC
 
 var deposit: Double = 10_000
 var percent: Double = 10
-let years: Int = 5
+let years: Int = 5 
 
 percent /= 100
 
