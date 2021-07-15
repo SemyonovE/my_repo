@@ -74,7 +74,7 @@ let P = sideA + sideB + sideC
 
 var deposit: Double = 10_000
 var percent: Double = 10
-let years: Int = 5 
+let years: Int = 5
 
 percent /= 100
 
@@ -91,3 +91,7 @@ print(deposit * pow(1 + percent, Double(years)))
 
 
 // 1. Github.com - создаешь проект
+// 2. `git init` в папке на компьютере
+// 3. `git add .` - добавить все изменения в отслеживание
+// 4. `git commit -m "Сообщение"` - сохранить изменения
+// 5. ``
